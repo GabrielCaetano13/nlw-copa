@@ -71,6 +71,7 @@ header {
   background: var(--card-bg-color);
   border-bottom: 2px solid var(--card-color-primary);
   border-radius: 6px;
+  margin-bottom: 20px;
 }
 
 .card h2 {
